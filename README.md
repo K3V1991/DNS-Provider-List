@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/tC2mXJR/DNS.png" width="200"></a>
+<p align="center"><img src="https://github.com/K3V1991/DNS-Provider-List/blob/main/DNS.png" width="200"></a>
 <h1 align="center"><b>DNS Provider List</b></h1>
 <br />
 
